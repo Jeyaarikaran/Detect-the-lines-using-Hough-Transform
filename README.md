@@ -1,4 +1,4 @@
-# Lane Detection
+# Lane Detection Using OpenCV and Hough Transform
 
 ## Aim
 
